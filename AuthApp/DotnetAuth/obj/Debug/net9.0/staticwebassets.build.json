@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "4Fh4Y6fZc3d3U+oYeGmUYL0H70bvaHmD1ZjY3qi3fZo=",
+  "Source": "DotnetAuth",
+  "BasePath": "_content/DotnetAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotnetAuth\\wwwroot",
+      "Source": "DotnetAuth",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.png",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae1wlszmcm",
+      "Integrity": "7luo5VvVqAed4Bd0d6kcJNjMbfbkfhllvOaIjDXRXe0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.png"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.png",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1xddxar21",
+      "Integrity": "iJkTxlUWfNQ0ZEOX/Hh17FowZZwrs/+MwWkYxEG3fek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.png"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.jpg",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zb6tj3uwwx",
+      "Integrity": "sXuURPDxu0SLzwcFaKCsEu0c3NV9AiHxQIA03qbO3E0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.jpg"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.png",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wo6h13fnou",
+      "Integrity": "4IZAbdGusZzz6IH6zIt2uBSgKTM/iaFvdoOOu0NMQIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.png"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.png",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1088ca372s",
+      "Integrity": "f0FZLooCQbCBQpTHXszZrb3oaoX3LJ/3Rby9PNCcYDA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.png"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.png",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5uzg5oqdvr",
+      "Integrity": "k4EofsOL7xeqGRE+WqZzBBXQE4sL5H07CT5qBKXQkvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.png"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.jpg",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6jmdfmycv",
+      "Integrity": "qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.jpg"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\defaults\\default-picture-profile.png",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/defaults/default-picture-profile#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d90hbt9f7m",
+      "Integrity": "keo2Wop316UIvu5lXMTWLAGv8aEPNkxcGXz+qWBth8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\defaults\\default-picture-profile.png"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.jpg",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6jmdfmycv",
+      "Integrity": "qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.jpg"
+    },
+    {
+      "Identity": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.jpeg",
+      "SourceId": "DotnetAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\",
+      "BasePath": "_content/DotnetAuth",
+      "RelativePath": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ujzhzvm66",
+      "Integrity": "zyPEz9OdQSqKRDyOIVy14FW8iSCUdUNDjCp8eTWstpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "profile-pictures/16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.ae1wlszmcm.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7luo5VvVqAed4Bd0d6kcJNjMbfbkfhllvOaIjDXRXe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 19:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae1wlszmcm"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7luo5VvVqAed4Bd0d6kcJNjMbfbkfhllvOaIjDXRXe0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\16b305f7-d4a0-4b07-a24a-856c7c9d1661_638813050577109763_7bd3d3e9-f5ba-434c-bae2-70cf34fdd239-profile_image-300x300.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7luo5VvVqAed4Bd0d6kcJNjMbfbkfhllvOaIjDXRXe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 19:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7luo5VvVqAed4Bd0d6kcJNjMbfbkfhllvOaIjDXRXe0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.k1xddxar21.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJkTxlUWfNQ0ZEOX/Hh17FowZZwrs/+MwWkYxEG3fek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:10:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1xddxar21"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJkTxlUWfNQ0ZEOX/Hh17FowZZwrs/+MwWkYxEG3fek="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\2b0846e9-975b-48a6-9089-7a99a4173254_638812050467963234_oQ_kaNdo_400x400.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iJkTxlUWfNQ0ZEOX/Hh17FowZZwrs/+MwWkYxEG3fek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:10:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iJkTxlUWfNQ0ZEOX/Hh17FowZZwrs/+MwWkYxEG3fek="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.jpg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sXuURPDxu0SLzwcFaKCsEu0c3NV9AiHxQIA03qbO3E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 11:56:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXuURPDxu0SLzwcFaKCsEu0c3NV9AiHxQIA03qbO3E0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.zb6tj3uwwx.jpg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sXuURPDxu0SLzwcFaKCsEu0c3NV9AiHxQIA03qbO3E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 11:56:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zb6tj3uwwx"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/3ec884f0-9742-4acb-acc6-af02ebecccd2_638812762079387491_111522964.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXuURPDxu0SLzwcFaKCsEu0c3NV9AiHxQIA03qbO3E0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2116822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4IZAbdGusZzz6IH6zIt2uBSgKTM/iaFvdoOOu0NMQIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4IZAbdGusZzz6IH6zIt2uBSgKTM/iaFvdoOOu0NMQIw="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.wo6h13fnou.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2116822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4IZAbdGusZzz6IH6zIt2uBSgKTM/iaFvdoOOu0NMQIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wo6h13fnou"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/65fa08b4-d5f5-4803-8fcc-4ca297475358_638812171632302977_ChatGPT Image Mar 30, 2025, 08_44_46 PM.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4IZAbdGusZzz6IH6zIt2uBSgKTM/iaFvdoOOu0NMQIw="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.1088ca372s.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0FZLooCQbCBQpTHXszZrb3oaoX3LJ/3Rby9PNCcYDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 20:45:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1088ca372s"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0FZLooCQbCBQpTHXszZrb3oaoX3LJ/3Rby9PNCcYDA="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\7b7098f8-9b43-4dc6-83b6-c4a996ddd3e9_638812215523820595_avezvlr_2025-01-05_19-38-29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0FZLooCQbCBQpTHXszZrb3oaoX3LJ/3Rby9PNCcYDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 20:45:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0FZLooCQbCBQpTHXszZrb3oaoX3LJ/3Rby9PNCcYDA="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.5uzg5oqdvr.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "514465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4EofsOL7xeqGRE+WqZzBBXQE4sL5H07CT5qBKXQkvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 20:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5uzg5oqdvr"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4EofsOL7xeqGRE+WqZzBBXQE4sL5H07CT5qBKXQkvw="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\c3bb8931-05af-4ef2-a70a-22a5584fbea9_638812196056704035_Screenshot 2025-02-23 202058.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "514465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4EofsOL7xeqGRE+WqZzBBXQE4sL5H07CT5qBKXQkvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 20:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4EofsOL7xeqGRE+WqZzBBXQE4sL5H07CT5qBKXQkvw="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.jpg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 14:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.x6jmdfmycv.jpg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 14:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6jmdfmycv"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/cbba791a-0a18-40a0-899d-3f8655d671aa_638814593078951282_G1ghBHzC_400x400.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/defaults/default-picture-profile.d90hbt9f7m.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\defaults\\default-picture-profile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"keo2Wop316UIvu5lXMTWLAGv8aEPNkxcGXz+qWBth8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:17:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d90hbt9f7m"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/defaults/default-picture-profile.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-keo2Wop316UIvu5lXMTWLAGv8aEPNkxcGXz+qWBth8Q="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/defaults/default-picture-profile.png",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\defaults\\default-picture-profile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"keo2Wop316UIvu5lXMTWLAGv8aEPNkxcGXz+qWBth8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:17:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-keo2Wop316UIvu5lXMTWLAGv8aEPNkxcGXz+qWBth8Q="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.jpg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 22:12:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.x6jmdfmycv.jpg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 22:12:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6jmdfmycv"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267255319455_G1ghBHzC_400x400.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbNUYUzF6fITWEbCDhI/8Pwu6qn0G0nF7ZmikZqX1e0="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.9ujzhzvm66.jpeg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zyPEz9OdQSqKRDyOIVy14FW8iSCUdUNDjCp8eTWstpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 22:12:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ujzhzvm66"
+        },
+        {
+          "Name": "label",
+          "Value": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zyPEz9OdQSqKRDyOIVy14FW8iSCUdUNDjCp8eTWstpo="
+        }
+      ]
+    },
+    {
+      "Route": "profile-pictures/fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.jpeg",
+      "AssetFile": "A:\\saved last file\\DotnetAuth 2 - last\\DotnetAuth\\wwwroot\\profile-pictures\\fdd677b8-8735-4945-94ae-2c675cbec435_638812267556366933_GiKAclQWEAAGISX.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zyPEz9OdQSqKRDyOIVy14FW8iSCUdUNDjCp8eTWstpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 22:12:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zyPEz9OdQSqKRDyOIVy14FW8iSCUdUNDjCp8eTWstpo="
+        }
+      ]
+    }
+  ]
+}

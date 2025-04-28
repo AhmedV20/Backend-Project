@@ -1,0 +1,536 @@
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.AssemblyReference.cache
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.AssemblyInfoInputs.cache
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.AssemblyInfo.cs
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.CoreCompileInputs.cache
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.MvcApplicationPartsAssemblyInfo.cs
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.MvcApplicationPartsAssemblyInfo.cache
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\appsettings.Development.json
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\appsettings.json
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.staticwebassets.endpoints.json
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.exe
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.deps.json
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.runtimeconfig.json
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.pdb
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\AutoMapper.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Azure.Core.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Azure.Identity.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Humanizer.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.OpenApi.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Mono.TextTemplating.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Newtonsoft.Json.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Scalar.AspNetCore.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\SendGrid.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\StarkbankEcdsa.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.ClientModel.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.CodeDom.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Composition.Convention.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Composition.Hosting.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Composition.Runtime.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Composition.TypedParts.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Drawing.Common.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Memory.Data.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Runtime.Caching.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Security.Permissions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\System.Windows.Extensions.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\scopedcss\bundle\DotnetAuth.styles.css
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets.build.json
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets.development.json
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.DotnetAuth.Microsoft.AspNetCore.StaticWebAssets.props
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.DotnetAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.build.DotnetAuth.props
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DotnetAuth.props
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DotnetAuth.props
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets.pack.json
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.Up2Date
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.dll
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\refint\DotnetAuth.dll
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.pdb
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\DotnetAuth.genruntimeconfig.cache
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\ref\DotnetAuth.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\AspNetCoreRateLimit.dll
+A:\DotnetAuth\DotnetAuth\bin\Debug\net9.0\DotnetAuth.staticwebassets.runtime.json
+A:\DotnetAuth\DotnetAuth\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\appsettings.Development.json
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.staticwebassets.endpoints.json
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\appsettings.json
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.staticwebassets.runtime.json
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.exe
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.deps.json
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.runtimeconfig.json
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.pdb
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\AspNetCoreRateLimit.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\AutoMapper.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Azure.Core.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Azure.Identity.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Humanizer.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.OpenApi.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Mono.TextTemplating.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Newtonsoft.Json.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Scalar.AspNetCore.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\SendGrid.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\StarkbankEcdsa.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.ClientModel.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.CodeDom.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.Convention.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.Hosting.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.Runtime.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.TypedParts.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Drawing.Common.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Memory.Data.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Runtime.Caching.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Security.Permissions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Windows.Extensions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.AssemblyReference.cache
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.AssemblyInfoInputs.cache
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.AssemblyInfo.cs
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.CoreCompileInputs.cache
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.MvcApplicationPartsAssemblyInfo.cs
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.MvcApplicationPartsAssemblyInfo.cache
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\scopedcss\bundle\DotnetAuth.styles.css
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.build.json
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.development.json
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.DotnetAuth.Microsoft.AspNetCore.StaticWebAssets.props
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.DotnetAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.build.DotnetAuth.props
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DotnetAuth.props
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DotnetAuth.props
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.pack.json
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.Up2Date
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.dll
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\refint\DotnetAuth.dll
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.pdb
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.genruntimeconfig.cache
+A:\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\ref\DotnetAuth.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\appsettings.Development.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\appsettings.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.staticwebassets.endpoints.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.staticwebassets.runtime.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.exe
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.deps.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.runtimeconfig.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\DotnetAuth.pdb
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\AspNetCoreRateLimit.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\AutoMapper.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Azure.Core.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Azure.Identity.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Humanizer.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.OpenApi.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Mono.TextTemplating.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Newtonsoft.Json.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Scalar.AspNetCore.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\SendGrid.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\StarkbankEcdsa.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.ClientModel.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.CodeDom.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.Convention.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.Hosting.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.Runtime.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Composition.TypedParts.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Drawing.Common.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Memory.Data.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Runtime.Caching.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Security.Permissions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\System.Windows.Extensions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.AssemblyReference.cache
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.GeneratedMSBuildEditorConfig.editorconfig
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.AssemblyInfoInputs.cache
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.AssemblyInfo.cs
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.CoreCompileInputs.cache
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.MvcApplicationPartsAssemblyInfo.cs
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.MvcApplicationPartsAssemblyInfo.cache
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\scopedcss\bundle\DotnetAuth.styles.css
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.build.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.development.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.DotnetAuth.Microsoft.AspNetCore.StaticWebAssets.props
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.DotnetAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.build.DotnetAuth.props
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DotnetAuth.props
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DotnetAuth.props
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.pack.json
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.csproj.Up2Date
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\refint\DotnetAuth.dll
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.pdb
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\DotnetAuth.genruntimeconfig.cache
+A:\saved last file\DotnetAuth 2 - last\DotnetAuth\obj\Debug\net9.0\ref\DotnetAuth.dll
